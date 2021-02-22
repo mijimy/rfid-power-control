@@ -1,5 +1,5 @@
 # rfid-power-control
-
+using arduino nano as controller
 to control power outlet using SSR relay
 only registered card or tag can control power outlet
 
